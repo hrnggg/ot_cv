@@ -13,6 +13,8 @@ torch = "^1.12.1"
 geomloss = "^0.2.5"
 jupyterlab = "^3.4.7"
 pykeops = "^2.1"
+POT = "^0.8.2"
+scikit-learn = "^1.1.2"
 
 [tool.poetry.dev-dependencies]
 flake8 = "^5.0.4"
